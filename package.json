@@ -13,7 +13,7 @@
 		"lib"
 	],
 	"dependencies": {
-		"fs-jetpack": "^2.2.3",
+		"fs-jetpack": "^3.0.0",
 		"p-each-series": "^2.1.0",
 		"p-map": "^4.0.0",
 		"tory": "~0.4.3"
